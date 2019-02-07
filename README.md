@@ -1,3 +1,3 @@
 # TeamC-Repo-Test
-# Paul, Srihari, Yuvraj, and Simha
+## Paul, Srihari, Yuvraj, and Simha
 # Can I Edit?
