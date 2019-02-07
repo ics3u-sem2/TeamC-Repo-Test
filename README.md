@@ -8,6 +8,8 @@ We are a part of the ICS 3UI Sem 2 Classroom
 * **Yuvraj Raghuvanshi**
 * **Simha Kalimipalli**
 
+<img src="https://i.ibb.co/mcZ0nCW/Another-bear-cuz-why-not.png" />
+
 ## License
 
 Copyright [2018]
